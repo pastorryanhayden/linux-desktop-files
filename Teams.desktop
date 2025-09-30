@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Teams
+Comment=Access Microsoft Teams
+Exec=google-chrome-stable --app=https://teams.microsoft.com/v2/
+Icon=/home/ryanhayden/.local/share/applications/icons/microsoft-teams.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

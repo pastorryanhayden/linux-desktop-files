@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Claude
+Comment=Access Claude
+Exec=google-chrome-stable --app=https://claude.ai/new
+Icon=/home/ryanhayden/.local/share/applications/icons/claude-ai.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;

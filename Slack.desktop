@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Slack
+Comment=Access Slack
+Exec=google-chrome-stable --app=https://app.slack.com/client/T5J2VBB7V/C05AQEKDXNE
+Icon=/home/ryanhayden/.local/share/applications/icons/slack.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=x-scheme-handler/slack;
